@@ -14,7 +14,7 @@ stacks.append(right_stack)
 
 #Set up the Game
 try:
-  num_disks = int(input("\nHow many disks do you want to play with?\n"))
+  num_disks = int(input("\nHow many disks do you want?\n"))
 except:
   print('Why you did\'t input a number? I\'m closing this program right now!')
 
